@@ -1,0 +1,25 @@
+{
+  "name": "byteme",
+  "version": "1.0.0",
+  "description": "simen er tolmodig",
+  "main": "index.js",
+  "scripts": {
+    "test": "testr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindalr/byteme.git"
+  },
+  "keywords": [
+    "simen",
+    "er",
+    "veldig",
+    "tolmodig"
+  ],
+  "author": "lindalr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lindalr/byteme/issues"
+  },
+  "homepage": "https://github.com/lindalr/byteme#readme"
+}
